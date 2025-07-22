@@ -7,11 +7,15 @@ I am an experienced IT professional with over 8 years of expertise in Informatio
 
 
 ## Projects
-| Project Name                                           | Description         |
-|-----------------------------------------------  |----------------------------|
-| SIEM Implementation and Log Analysis            | <a href="https://github.com/rdaw16/Detection-Lab">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection |  Network Traffic Monitoring and Attack Detection|
-| Nessus Vulnerability Assesstment               | Vulnerability Assesstment|
+| Project Name                                           | Description         |                     Link             |
+|------------------------------------------- |----------------------------|-------------------------------------------|
+| Azure Active Directoy                           | Created and managed users, groups, and roles in a cloud-based Azure AD environment.|
+| Nessus Vulnerability Assesstment                | Conducted vulnerability scans and analyzed system security using Nessus.|
+| Phising Attack Simulator                        |	Simulated real-world phishing scenarios to test user awareness and security readiness. |
+| SIEM Implementation and Log Analysis            | Deployed a SIEM solution to aggregate, analyze, and visualize security logs for threats. | <a href="https://github.com/rdaw16/Detection-Lab">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | Monitored real-time network traffic and implemented detection for suspicious activity.|
+
+
 
 
 ## Tools
@@ -44,11 +48,16 @@ I am an experienced IT professional with over 8 years of expertise in Informatio
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-SSCP-2C9E8F?style=for-the-badge&logo=ISC2&logoColor=white" />
-<img src="https://img.shields.io/badge/-LPI%20Linux-009639?&style=for-the-badge&logo=Linux&logoColor=white" />
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-ITIL%20v4-734F96?style=for-the-badge&logo=ITIL&logoColor=white" />
+  <a href="https://www.credly.com/badges/ed8d79c6-e21d-430e-86a8-2aa5ee36c041/public_url" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-SSCP-2C9E8F?style=for-the-badge&logo=ISC2&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/-LPI%20Linux-009639?&style=for-the-badge&logo=Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AZ--900-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ITIL%20v4-734F96?style=for-the-badge&logo=ITIL&logoColor=white" />
+</div>
+
 
 
