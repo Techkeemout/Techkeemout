@@ -51,11 +51,16 @@ I am an experienced IT professional with over 8 years of expertise in Informatio
   <a href="https://www.credly.com/badges/ed8d79c6-e21d-430e-86a8-2aa5ee36c041/public_url" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/-SSCP-2C9E8F?style=for-the-badge&logo=ISC2&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/-LPI%20Linux-009639?&style=for-the-badge&logo=Linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LPI%20Linux-009639?style=for-the-badge&logo=Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-AZ--900-0078D4?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />  
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=0507AA28728903C35A2388A2F5E167631027E574850DE4D17E66837619E68B2D" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/-Oracle%20Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/-Network%2B-007ACC?style=for-the-badge&logo=CompTIA&logoColor=white" />
+ 
 </div>
+
 
 
 
