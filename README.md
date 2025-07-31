@@ -9,7 +9,7 @@ I am an experienced IT professional with over 8 years of expertise in Informatio
 ## Projects
 | Project Name                                           | Description         |                     Link             |
 |------------------------------------------- |----------------------------|-------------------------------------------|
-| Securing Access with Azure Active Directoy                           | Created and managed users, groups.  Enanbled SSPR and MFA in a cloud-based Azure AD environment.| 
+| Securing Access with Azure Active Directoy                           | Created and managed users, groups.  Enanbled SSPR and MFA in a cloud-based Azure AD environment.| <a href="https://github.com/Techkeemout/Secure-Access-With-Azure-Active-Directory">Azure Lab</a>
 | Nessus Vulnerability Assesstment                | Conducted vulnerability scans and analyzed system security using Nessus.| <a href="https://github.com/Techkeemout/Nessus-Vulnerability-Assesstment">Assessment</a> 
 | Phising Attack Simulator                        |	Simulated real-world phishing scenarios to test user awareness and security readiness. |
 | SIEM Implementation and Log Analysis            | Deployed a SIEM solution to aggregate, analyze, and visualize security logs for threats. | <a href="https://github.com/rdaw16/Detection-Lab">Detection Lab</a>|
