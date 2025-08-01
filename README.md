@@ -3,8 +3,7 @@
 
 
 
-I am an experienced IT professional with over 8 years of expertise in Information Technology. Over the years, I’ve developed a strong passion for cybersecurity and am now focused on transitioning into this dynamic field. My goal is to leverage my IT background and practical experience to join a Security Operations Center (SOC) as an Analyst. Here, you’ll find projects showcasing my hands-on learning and commitment to cybersecurity.
-
+I’m an experienced IT professional with over 8 years in the field, now focused on deepening my expertise in cybersecurity. Building on a strong foundation in systems support and administration, I’m actively expanding my skills in areas like cloud security, vulnerability assessment, threat detection, and identity management. This GitHub showcases my hands-on projects and lab work, reflecting my commitment to continuous learning and a career shift toward security-focused roles across the IT landscape.
 
 ## Projects
 | Project Name                                           | Description         |                     Link             |
