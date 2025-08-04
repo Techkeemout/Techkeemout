@@ -9,6 +9,7 @@ I’m an experienced IT professional with over 8 years in the field, now focused
 | Project Name                                           | Description         |                     Link             |
 |------------------------------------------- |----------------------------|-------------------------------------------|
 | Securing Access with Azure Active Directoy                           | Created and managed users, groups.  Enanbled SSPR and MFA in a cloud-based Azure AD environment.| <a href="https://github.com/Techkeemout/Secure-Access-With-Azure-Active-Directory">Azure Lab</a>
+| Microsoft Sentinel SIEM Deployment in Azure                         |	Generate and monitor alerts in home business lab. |
 | Nessus Vulnerability Assesstment                | Conducted vulnerability scans and analyzed system security using Nessus.| <a href="https://github.com/Techkeemout/Nessus-Vulnerability-Assesstment">Assessment</a> 
 | Phising Attack Simulator                        |	Simulated real-world phishing scenarios to test user awareness and security readiness. |
 
