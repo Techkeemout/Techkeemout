@@ -14,7 +14,7 @@
 
 ---
 
-IT professional with **8+ years in systems support and administration**, now transitioning into cybersecurity. Currently an IT Support Specialist actively pursuing a **BS in Cybersecurity & Information Assurance at WGU** (3 courses remaining). My hands-on work spans cloud security, SIEM deployment, vulnerability assessment, and identity management — backed by multiple industry certifications and a live homelab running a full defensive security stack.
+IT professional with **8+ years in systems support and administration**, now transitioning into cybersecurity. Currently an IT Support Specialist actively pursuing a **BS in Cybersecurity & Information Assurance at WGU** (CAPSTONE remaining). My hands-on work spans cloud security, SIEM deployment, vulnerability assessment, and identity management — backed by multiple industry certifications and a live homelab running a full defensive security stack.
 
 **I'm actively seeking roles in:** Security Analysis · SOC Operations · Identity & Access Management · Cloud Security · Systems Administration
 
