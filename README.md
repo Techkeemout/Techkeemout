@@ -121,11 +121,9 @@ My homelab runs on a **Proxmox hypervisor** with isolated network segments — o
 
 <div>
   <img src="https://img.shields.io/badge/-ISC2%20CCSP-2C9E8F?style=for-the-badge&logo=ISC2&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Red%20Hat%20RHCSA-EE0000?style=for-the-badge&logo=RedHat&logoColor=white" />
 </div>
 
-Deepening cloud security expertise with the **ISC2 CCSP** and Linux administration skills with the **Red Hat RHCSA**.
-
+Deepening cloud security expertise with the **ISC2 CCSP**
 ---
 
 ## 📊 GitHub Stats
